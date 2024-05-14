@@ -2,7 +2,7 @@
 
 Meu nome é Cassyane Suzan~☆
 
-~Estou estudando na Alura pelo projeto PEI de escola pública
+~Estou estudando na Alura pelo projeto PEI de Escola Estadual
 
 📝 Estou me desenvolvendo na linguagem JavaScript
 
